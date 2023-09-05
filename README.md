@@ -1,21 +1,20 @@
-### Hi there 👋
+### Hello, World! 👋
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
-efwerwetwfg
-<!--
-**nancynsalazar/nancynsalazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at U Camp as a Product Manager, building bootcamps related with Full Stack Web Development, Data Science and Artificial Intelligence, Cibersecurity and Ethic Hacking and more.  Also, I'm a Facilitator at Tecnolochicas PRO, teaching Front-end programming to high school and college women.
+  
+- 🌱 I’m currently learning JavaScript and Python. As well as Product Management and SCRUM.
+  
+- 👯 I’m looking to collaborate on projects related with EdTech, Entrepreneurship, Innovation and Technology.
+  
+- 💬 Ask me about technology, Programming Fundamentals, STEM Education, EdTech, Innovation, Power Skills, Digital Skills, Technical Writing, Data Visualization, Programming bootcamps, Startups, get your first job on tech industry, personal branding, networking and more stuff like that.
 
-Here are some ideas to get you started:
+- 📫 How to reach me: hola@nancynsalazar.tech / Handle on Social Media: @nancynsalazar
+  
+- 😄 Pronouns: She/Her
+  
+- ⚡ Fun fact: I'm a catlover.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
--->
+
 
