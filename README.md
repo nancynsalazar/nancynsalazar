@@ -1,7 +1,7 @@
 # Hello, World! 👋
 
 
-- 🔭 I’m currently working at U Camp as a Product Manager, building bootcamps related with Full Stack Web Development, Data Science and Artificial Intelligence, Cibersecurity and Ethic Hacking and more.  Also, I'm a Facilitator at Tecnolochicas PRO, teaching Front-end programming to high school and college women.
+- 🔭 I'm a Facilitator at Tecnolochicas PRO, teaching Front-end programming to high school and college women.
   
 - 🌱 I’m currently learning JavaScript and Python. As well as Product Management and SCRUM.
   
