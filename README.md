@@ -25,7 +25,7 @@ fields_of_interests:
 
 technical_background:
   [
-    "Frontend Developer"
+    "Frontend Developer",
     "Product Manager",
     "Product Designer",
     "Instructor - Python for Data Analysis and Visualization",
