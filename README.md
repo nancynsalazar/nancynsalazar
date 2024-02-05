@@ -1,19 +1,44 @@
-# Hello, World! 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=🍭Hello,%20world!🙋🏻‍♀️💻&fontSize=50)
 
+# About me...👋
+```
+name: Nancy Salazar
+located_in: León Guanajuato, México
+current_job: Founder
 
-- 🔭 I'm a Facilitator at Tecnolochicas PRO, teaching Front-end programming to high school and college women.
-  
-- 🌱 I’m currently learning JavaScript and Python. As well as Product Management and SCRUM.
-  
-- 👯 I’m looking to collaborate on projects related with EdTech, Entrepreneurship, Innovation and Technology.
-  
-- 💬 Ask me about technology, Programming Fundamentals, STEM Education, EdTech, Innovation, Power Skills, Digital Skills, Technical Writing, Data Visualization, Programming bootcamps, Startups, get your first job on tech industry, personal branding, networking and more stuff like that.
+education:
+  [
+    "Self-Taught Developer and Product Manager",
+    "Master's Degree in Information Technology Management",
+    "Bachelor's in Information Technology Engineering",
+  ]
 
+company: tekis.services
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Product Management",
+    "Data Visualization",
+    "Content Creation",
+    "Women in Tech",
+  ]
+
+technical_background:
+  [
+    "Frontend Developer"
+    "Product Manager",
+    "Product Designer",
+    "Instructor - Python for Data Analysis and Visualization",
+    "Tech Startups",
+  ]
+  
+currently_learning: ["Solana, Project Manager and React"]
+2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Reading", "Cinema", "Digital Art", "Concerts"]
+```
 - 📫 How to reach me: hola@nancynsalazar.tech / Handle on Social Media: @nancynsalazar
   
-- 😄 Pronouns: She/Her
-  
-- ⚡ Fun fact: I'm a catlover.
 
   ## 🎯 Some technologies I use:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
