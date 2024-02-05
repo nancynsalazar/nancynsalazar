@@ -5,6 +5,7 @@
 name: Nancy Salazar
 located_in: León Guanajuato, México
 current_job: Founder
+company: tekis.services
 
 education:
   [
@@ -12,8 +13,6 @@ education:
     "Master's Degree in Information Technology Management",
     "Bachelor's in Information Technology Engineering",
   ]
-
-company: tekis.services
 
 fields_of_interests:
   [
