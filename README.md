@@ -32,7 +32,7 @@ technical_background:
     "Tech Startups",
   ]
   
-currently_learning: ["Solana, Project Manager and React"]
+currently_learning: ["Solana, Project Management and React"]
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Reading", "Cinema", "Digital Art", "Concerts"]
 ```
