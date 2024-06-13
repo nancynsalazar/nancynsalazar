@@ -18,6 +18,7 @@ fields_of_interests:
   [
     "Web Development",
     "Product Management",
+    "IT Project Management",
     "Data Visualization",
     "Content Creation",
     "Women in Tech",
@@ -27,6 +28,7 @@ technical_background:
   [
     "Frontend Developer",
     "Product Manager",
+    "IT Project Manager",
     "Product Designer",
     "Instructor - Python for Data Analysis and Visualization",
     "Tech Startups",
